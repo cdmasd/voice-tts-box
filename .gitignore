@@ -1,0 +1,10 @@
+build/bin
+node_modules
+frontend/dist
+venv/
+*.exe
+*.db
+*.onnx
+*.bin
+temp.wav
+kokoro_temp.wav
